@@ -1,3 +1,6 @@
+# DARIO RIVERA HARO
+# CHRISTIAN MOISES DE ALBA VELARDE
+
 import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import messagebox
